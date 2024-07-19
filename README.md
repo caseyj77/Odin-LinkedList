@@ -49,7 +49,7 @@ list.append("parrot");
 list.append("hamster");
 list.append("snake");
 list.append("turtle");
-
+```
 Add console.log(list.toString()); to the end of the file and run it.
 If everything is working, the output should be:
 ( dog ) -> ( cat ) -> ( parrot ) -> ( hamster ) -> ( snake ) -> ( turtle ) -> null
