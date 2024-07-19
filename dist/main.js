@@ -15,7 +15,7 @@
   \**********************/
 /***/ (() => {
 
-eval("// eslint-disable-next-line no-undef\nconsole.log('Hello world')\n\n//# sourceURL=webpack://codespace-template/./src/index.js?");
+eval("// create class for the full linked list\nclass LinkedList {\n\n};\n\n\n\n// create class for the Node class\n\nclass Node {\n\n};\n\n//# sourceURL=webpack://codespace-template/./src/index.js?");
 
 /***/ })
 

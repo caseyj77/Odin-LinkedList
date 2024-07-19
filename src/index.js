@@ -1,2 +1,12 @@
-// eslint-disable-next-line no-undef
-console.log('Hello world')
+// create class for the full linked list
+class LinkedList {
+
+};
+
+
+
+// create class for the Node class
+
+class Node {
+
+};
